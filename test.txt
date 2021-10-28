@@ -1,0 +1,4 @@
+12 12 yes on
+12 12 no on
+-5 30 no on
+-5 30 yes on
